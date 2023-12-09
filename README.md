@@ -1,10 +1,21 @@
 # gatepex
-Now it's time to connect your database and APIs and manage them all at once.
+이제 데이터베이스와 API를 연결하고 한번에 관리할 시간입니다.
+이 저장소의 스타를 누르고, 업데이트를 확인하세요.
+
+<br>
+<br>
+
+# 미리보기
+
+<img src="https://cdn.discordapp.com/attachments/980765436973035550/1182964776784105602/2023-12-09_5.37.32.png?ex=65869ccd&is=657427cd&hm=178d47e00eafc54e9240385919cfc2c0a6037d9fa78987b473283812a4d6c4df&">
+<img src="https://cdn.discordapp.com/attachments/980765436973035550/1182964776247230545/2023-12-09_5.39.20.png?ex=65869ccd&is=657427cd&hm=62b529c626c60b4101384b308830033cbf0d3f44298a256e54c1cdd21d1ce677&">
+<img src="https://cdn.discordapp.com/attachments/980765436973035550/1182964775802646598/2023-12-09_5.39.27.png?ex=65869ccc&is=657427cc&hm=f6c7608ae654693f98ca150e577d565911512639b6652e6d94c8c91ee0f69ab7&">
 
 <br>
 <br>
 
 ## 가격 및 기능
+
 |`기능`|Community|Basic|Enterprise|
 | :---: | :---: | :---: | :---: |
 |Price(per user / Monthly)|Free|$16.5|$59.90|

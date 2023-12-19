@@ -41,4 +41,4 @@ Gatepex는 API관리 시스템 입니다.
 |역할 생성|X|X|O|
 |역할 권한|X|X|O|
 |**`마켓플레이스`**|**Community**|**Basic**|**Enterprise**|
-|제한없는 다운|X|O|O|
+|제한없는 다운|O|O|O|

@@ -1,4 +1,6 @@
-# gatepex
+
+<img src="https://cdn.discordapp.com/attachments/980765436973035550/1189885928043458641/23-12-28_20-01-16-395.jpg?ex=659fcaa0&is=658d55a0&hm=4cffa1ada10921fe460f4c0fe757dfc311a30ba5ebdcba6dba17413a6ebd804a&">
+
 Gatepex는 API관리 시스템 입니다.
 
 이제 데이터베이스와 API를 연결하고 한번에 관리할 시간입니다.
